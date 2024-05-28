@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="ProyectoBibliotecarioS5">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/dist/ProyectoBibliotecarioS5.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
